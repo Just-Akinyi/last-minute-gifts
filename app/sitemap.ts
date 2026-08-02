@@ -1,12 +1,10 @@
 import { MetadataRoute } from "next";
 
 export default function sitemap(): MetadataRoute.Sitemap {
-  const baseUrl = "https://lastminutegifts.co.ke";
-
   return [
     {
-      url: baseUrl,
-      lastModified: new Date(),
+      url: "https://lastminutegifts.co.ke/",
+      lastModified: new Date("2026-08-02"),
       changeFrequency: "daily",
       priority: 1,
     },
