@@ -13,7 +13,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  metadataBase: new URL("https://lastminutegifts.co.ke"),
+  metadataBase: new URL("https://www.lastminutegifts.co.ke"),
   title: "Last-Minute Gifts Kenya | Same-Day Gift Delivery",
   description:
     "Order beautiful last-minute gifts with same-day delivery across Kenya.",
@@ -31,7 +31,7 @@ export const metadata: Metadata = {
     title: "Last-Minute Gifts Kenya",
     description:
       "Order beautiful last-minute gifts with same-day delivery across Kenya.",
-    url: "https://lastminutegifts.co.ke",
+    url: "https://www.lastminutegifts.co.ke",
     siteName: "Last-Minute Gifts",
     images: [
       {
