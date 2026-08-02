@@ -89,9 +89,9 @@ export default function Home() {
   return (
     <main className="min-h-screen bg-white dark:bg-slate-950 text-slate-900 dark:text-slate-100 font-sans transition-colors duration-200">
       {/* Top Banner */}
-      <div className="bg-amber-500 text-slate-950 text-center py-2.5 text-xs sm:text-sm font-bold px-4">
+     {/* <div className="bg-amber-500 text-slate-950 text-center py-2.5 text-xs sm:text-sm font-bold px-4">
         NATIONWIDE GIRLFRIEND DAY RUSH: ORDER BY 12:00 PM TODAY FOR GUARANTEED DELIVERY!
-      </div>
+      </div>*/}
 
       {/* Hero Section */}
       <section className="max-w-6xl mx-auto px-4 py-8 sm:py-12 grid md:grid-cols-2 gap-8 items-center">
